@@ -1,5 +1,5 @@
 # IPL-Data-Analysis-End-To-End-Apache-Spark-Databricks-Project
-In this project, I have executed an End-To-End Data Engineering Project i.e., IPL Data Analysis using Apache Spark and Databricks. This project performs large-scale analysis of IPL cricket match data using PySpark.
+This is an End-To-End Data Engineering project that performs large-scale analysis of IPL cricket match data using using Apache Spark (PySpark) and Databricks.
 The goal is to derive insights such as venue-wise scoring patterns, player performance and match trends.
 
 ## Architecture
